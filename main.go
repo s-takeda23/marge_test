@@ -28,11 +28,15 @@ func Test() {
 func fukasawa_second() {
 	return
 }
+
 // add testfunc
 func test() {
 	fmt.Println("test")
 }
 
 // test2
+func test2() {
+	fmt.Println("test")
+}
 
 // test3
