@@ -18,3 +18,7 @@ func main() {
 func fukasawa() {
 	return
 }
+// test
+func Test() {
+
+}
