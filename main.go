@@ -18,7 +18,13 @@ func main() {
 func fukasawa() {
 	return
 }
+
 // test
 func Test() {
 
+}
+
+// add testfunc
+func test() {
+	fmt.Println("test")
 }
