@@ -7,3 +7,6 @@ func main() {
 }
 
 // test
+func Test() {
+
+}
